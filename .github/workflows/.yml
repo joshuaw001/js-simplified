@@ -1,0 +1,2 @@
+- name: Doc Build
+  uses: andreasofthings/doc-build@v1.0
